@@ -5,3 +5,10 @@ h1{
 ul{
   font-style: italic;
 }
+.intro{
+  font-style: italic;
+}
+.author{
+  color: red;
+  font-size: 12px
+}
